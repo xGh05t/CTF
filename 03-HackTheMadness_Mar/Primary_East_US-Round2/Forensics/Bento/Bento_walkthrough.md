@@ -1,13 +1,14 @@
 # CTF Walkthrough: Bento — Malware Forensics Analysis
+**By: xG//05t**
 
-**Category:** Forensics
-**Difficulty:** Medium
-**Tool:** Noriben Sandbox Report
+**Category:** Forensics<br>
+**Difficulty:** Medium<br>
+**Tool:** Noriben Sandbox Report<br>
 **File:** `Noriben_26_Sep_24__15_55_500478.txt`
 
 ---
 
-## Challenge Description
+## Challenge SCENARIO
 
 > We identified active malware in one of our Windows servers. We isolated it and executed the malware in our honeypot. Analyze the generated report and answer the questions to help us understand how the malware works.
 
