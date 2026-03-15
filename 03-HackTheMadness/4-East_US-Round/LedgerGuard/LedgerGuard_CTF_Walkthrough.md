@@ -1,7 +1,7 @@
 # HackTheBox CTF — LedgerGuard Walkthrough
 
-**Category:** Mobile / API
-**Difficulty:** Medium
+**Category:** Mobile / API<br>
+**Difficulty:** Medium<br>
 **Flag:** `HTB{dynamic_s1gn4ture_ch3ck_byp4ss}`
 
 By: xG//05t
